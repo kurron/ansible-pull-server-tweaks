@@ -18,10 +18,9 @@ This project is intended to be invoked by the JVM Development Environment projec
 
 * set up Git credentials
 * tweak `.bashrc`
-* change the login icon
 * update `/etc/hosts` with entries to local machines
 * check out frequently edited Git projects
-* install tools I like, like [WireShark](https://www.wireshark.org/) and [Chromium](https://www.chromium.org/)
+* install tools I like
 
 #Troubleshooting
 
