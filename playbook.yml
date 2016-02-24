@@ -37,6 +37,7 @@
       - git: repo=https://github.com/kurron/ansible-pull-server-tweaks.git dest=/home/vagrant/GitHub/ansible-pull-desktop-tweaks
       - git: repo=https://github.com/kurron/scripts.git dest=/home/vagrant/GitHub/scripts
       - git: repo=https://github.com/kurron/docker-oracle-jdk-8.git dest=/home/vagrant/GitHub/docker-oracle-jdk-8
+      - git: repo=https://github.com/kurron/sequence-diagrams.git dest=/home/vagrant/GitHub/sequence-diagrams
       - name: Set permissions on the home directory
         file: path=/home/vagrant owner=vagrant group=vagrant recurse=true state=directory
 
